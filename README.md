@@ -3,7 +3,8 @@
            Hello World, I'm Mukul Tyagi 😎
 </h3>
 <p align="center">
-  <img src="https://media2.giphy.com/media/3o7TKvVTlNBANWtOO4/giphy.gif?cid=ecf05e47sud0te2e7dvqb8hu9yr03ja815vqkqi0kpc0buw0&rid=giphy.gif&ct=g" alt="Hello" width="100%" height="500">
+  <img src="https://media2.giphy.com/media/l0Rlil6D1KE3JDkmiY/giphy.gif?cid=ecf05e47vii02yvch2ruewk7l0lrxezwszw0blxo8o7scb6d&rid=giphy.gif&ct=g" alt="Hello" width="100%" height="500">
+           
 </p>
 
 
