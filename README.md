@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello World, I'm Mukul Tyagi 😎
+<img src="https://media2.giphy.com/media/3o7TKvVTlNBANWtOO4/giphy.gif?cid=ecf05e47sud0te2e7dvqb8hu9yr03ja815vqkqi0kpc0buw0&rid=giphy.gif&ct=g" alt="Hello" width="100%" height="500">
 <!--
 **mukultyagi481/mukultyagi481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
