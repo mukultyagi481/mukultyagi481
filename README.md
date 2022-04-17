@@ -46,7 +46,7 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=00C7B7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=00C7B7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=00C7B7)
-![](https://img.shields.io/badge/Code-DS&Algo-informational?style=flat&logo=HTML5&color=00C7B7)
+![](https://img.shields.io/badge/Code-DS&Algo-informational?style=flat&logo=SQLite&color=00C7B7)
 
 </br>
 
@@ -57,7 +57,7 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Python-informational?style=flat&logo=Figma&color=00C7B7)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=SQLite&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=00C7B7)
