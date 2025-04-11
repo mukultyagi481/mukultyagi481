@@ -42,11 +42,11 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=00C7B7)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=00C7B7)
+![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=react&color=00C7B7)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Redux&color=00C7B7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=00C7B7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=00C7B7)
-![](https://img.shields.io/badge/Code-DS&Algo-informational?style=flat&logo=SQLite&color=00C7B7)
+![](https://img.shields.io/badge/Code-Statistical-Analytics-informational?style=flat&logo=SQLite&color=00C7B7)
 
 </br>
 
