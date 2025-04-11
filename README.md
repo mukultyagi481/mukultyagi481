@@ -9,7 +9,7 @@
 
 
 <h2 align="center">
-I'm a Full-Stack Developer 💻, Writer ✍️, and A designer 🎨!
+I'm a Business Analyst💻, Writer ✍️, and A Creative Thinker🤔!
 </h2> 
 
 <p>
