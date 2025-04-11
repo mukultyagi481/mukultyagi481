@@ -46,7 +46,7 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Redux&color=00C7B7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=00C7B7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=00C7B7)
-![](https://img.shields.io/badge/Code-StatisticalAnalytics-informational?style=flat&logo=SQLite&color=00C7B7)
+![](https://img.shields.io/badge/Code-Analytics-informational?style=flat&logo=SQLite&color=00C7B7)
 
 </br>
 
