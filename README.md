@@ -42,6 +42,10 @@ Business Analytics graduate student with 3+ years of industry experience at Cogn
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=react&color=00C7B7)
+![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=react&color=00C7B7)
+![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=react&color=00C7B7)
+![](https://img.shields.io/badge/Code-Statistical_Analytics-informational?style=flat&logo=react&color=00C7B7)
+![](https://img.shields.io/badge/Code-Predictive_Analytics-informational?style=flat&logo=react&color=00C7B7)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Redux&color=00C7B7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=00C7B7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=00C7B7)
