@@ -9,7 +9,7 @@
 
 
 <h2 align="center">
-I'm a Business Analyst💻, Writer ✍️, and A Creative Thinker🤔!
+I'm a Business Analyst, Data Analyst💻, Writer ✍️, and A Creative Thinker🤔!
 </h2> 
 
 <p>
@@ -26,19 +26,18 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 
 ## 🧑🏻‍💻 I'm currently working on
 
-- Responsive Portfolio Website
-- Instagram Clone (working on it soon)
-- Ecommerce Website
-- My React skill
+- Data Science projects
+- Website Analytics
+- Time Series
 
 ## 💻🧑🏻 I'm currently learning
 
-- 📱 React Native
-- NodeJs
-- React Context API
-- Styled Components
-- Javascript
-- Python  
+- Python
+- Pandas
+- Numpy
+- Scipy
+- Matplotlib
+- KPIs   
 
 ## 💼 Technical Skills
 
@@ -51,15 +50,15 @@ I am Full-Stack developer and a cheerful programmer. I am confident about my tec
 </br>
 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=PostgreSQL&color=00C7B7)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=SQLite&color=00C7B7)
+![](https://img.shields.io/badge/Code-Reporting-informational?style=flat&logo=SQLite&color=00C7B7)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=00C7B7)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=00C7B7)
 
 </br>
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=SQLite&color=00C7B7)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=NPM&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Scipy-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=00C7B7)
 
