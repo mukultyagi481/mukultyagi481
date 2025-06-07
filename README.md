@@ -21,7 +21,7 @@ Business Analytics graduate student with 3+ years of industry experience at Cogn
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mukul-kumar-tyagi-45979414a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mukul Tyagi | LinkedIn" width="21px"/></a>
-<a href="https://www.datascienceportfol.io/mukultyagi481"><img align="left" src="https://img.icons8.com/size=100&id=BcWr8NBOsovH&format=png&color=000000" alt="Mukul Tyagi | Website" width="21px"/></a>
+<a href="https://www.datascienceportfol.io/mukultyagi481"><img align="left" src="https://img.icons8.com/portfolio" alt="Mukul Tyagi | Website" width="21px"/></a>
 </br>
 
 ## 🧑🏻‍💻 I'm currently working on
