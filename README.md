@@ -32,11 +32,9 @@ Business Analytics graduate student with 3+ years of industry experience at Cogn
 
 ## 💻🧑🏻 I'm currently learning
 
-- Python
-- Pandas
-- Numpy
-- Scipy
-- Matplotlib
+- Data Science
+- LLM
+- NLP
 - KPIs   
 
 ## 💼 Technical Skills
