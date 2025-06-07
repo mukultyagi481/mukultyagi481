@@ -14,14 +14,14 @@ I'm a Business Analyst, Data Analyst💻, Writer ✍️, and A Creative Thinker�
 
 <p>
 <font color="red" face="Verdana, Geneva, sans-serif" size="+1">
-I am Full-Stack developer and a cheerful programmer. I am confident about my technical skills and committed to lifelong learning. I am an organized,meticulous,team worker, and punctual person. I would like to work with company that appreciates innovative inputs so that i can revamp my knowledge and skills to give my best for growth of the company.
+Business Analytics graduate student with 3+ years of industry experience at Cognizant, delivering client-focused, data-driven solutions across insurance and operations domains. Skilled in Agile methodologies, requirement analysis, stakeholder communication, documentation, and JIRA. Adept at bridging business and technical teams, with a solid foundation in SQL, Python, Tableau, and SDLC practices. Passionate about delivering consulting excellence and scalable solutions in fast-paced environments.
 </font>
 </p>
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mukul-kumar-tyagi-45979414a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mukul Tyagi | LinkedIn" width="21px"/></a>
-<a href="https://app.netlify.com/teams/mukultyagi481/overview?_ga=2.241980929.2053195518.1650111069-918552447.1648973928"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Mukul Tyagi | Medium" width="21px"/></a>
+<a href="https://www.datascienceportfol.io/mukultyagi481"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Mukul Tyagi | Website" width="21px"/></a>
 </br>
 
 ## 🧑🏻‍💻 I'm currently working on
