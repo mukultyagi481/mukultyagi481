@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
-I'm a Business Analyst, Data Analyst💻, Writer ✍️, and A Creative Thinker🤔!
+I'm a Business Analyst, Data Analyst, Data Scientist💻, Writer ✍️, and A Creative Thinker🤔!
 </h2> 
 
 <p>
