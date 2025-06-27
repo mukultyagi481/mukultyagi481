@@ -17,9 +17,9 @@ I'm a Business Analyst, Data Analyst, Data Scientist💻, Writer ✍️, and A C
 
 💼 With 3+ years of experience as a Software Engineer at Cognizant, I’ve built end-to-end data solutions, implemented predictive models, and automated reporting workflows for insurance and banking clients.
 
-🔍 I specialize in:
+<h2>🔍 I specialize in:</h2>
 
-<h2>Data Science:</h2> Predictive modeling, classification, time series forecasting (ARIMA, SARIMAX)
+<h1>Data Science:</h1> Predictive modeling, classification, time series forecasting (ARIMA, SARIMAX)
 Analytics & BI: SQL, Excel, Tableau, Power BI, Python (pandas, matplotlib, scikit-learn)
 Business Analysis: Requirement gathering, stakeholder communication, Agile, process improvement
 
