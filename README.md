@@ -13,7 +13,18 @@ I'm a Business Analyst, Data Analyst, Data Scientist💻, Writer ✍️, and A C
 
 <p>
 <font color="red" face="Verdana, Geneva, sans-serif" size="+1">
-Business Analytics graduate student with 3+ years of industry experience at Cognizant, delivering client-focused, data-driven solutions across insurance and operations domains. Skilled in Agile methodologies, requirement analysis, stakeholder communication, documentation, and JIRA. Adept at bridging business and technical teams, with a solid foundation in SQL, Python, Tableau, and SDLC practices. Passionate about delivering consulting excellence and scalable solutions in fast-paced environments.
+🎓 I’m a Master's student in Business Analytics at the University at Buffalo, blending analytical expertise with business acumen to solve real-world problems.
+
+💼 With 3+ years of experience as a Software Engineer at Cognizant, I’ve built end-to-end data solutions, implemented predictive models, and automated reporting workflows for insurance and banking clients.
+
+🔍 I specialize in:
+
+Data Science: Predictive modeling, classification, time series forecasting (ARIMA, SARIMAX)
+Analytics & BI: SQL, Excel, Tableau, Power BI, Python (pandas, matplotlib, scikit-learn)
+Business Analysis: Requirement gathering, stakeholder communication, Agile, process improvement
+
+🚀 I’ve led projects that improved fraud detection accuracy, optimized operations, and delivered dashboards used by leadership for strategic decisions.
+📊 Passionate about using data to drive decision-making, tell compelling stories, and build scalable solutions.
 </font>
 </p>
 
