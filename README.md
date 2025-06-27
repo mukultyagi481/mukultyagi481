@@ -19,7 +19,7 @@ I'm a Business Analyst, Data Analyst, Data Scientist💻, Writer ✍️, and A C
 
 🔍 I specialize in:
 
-Data Science: Predictive modeling, classification, time series forecasting (ARIMA, SARIMAX)
+<h2>Data Science:</h2> Predictive modeling, classification, time series forecasting (ARIMA, SARIMAX)
 Analytics & BI: SQL, Excel, Tableau, Power BI, Python (pandas, matplotlib, scikit-learn)
 Business Analysis: Requirement gathering, stakeholder communication, Agile, process improvement
 
