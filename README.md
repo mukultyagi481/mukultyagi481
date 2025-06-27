@@ -24,6 +24,7 @@ Analytics & BI: SQL, Excel, Tableau, Power BI, Python (pandas, matplotlib, sciki
 Business Analysis: Requirement gathering, stakeholder communication, Agile, process improvement
 
 🚀 I’ve led projects that improved fraud detection accuracy, optimized operations, and delivered dashboards used by leadership for strategic decisions.
+
 📊 Passionate about using data to drive decision-making, tell compelling stories, and build scalable solutions.
 </font>
 </p>
